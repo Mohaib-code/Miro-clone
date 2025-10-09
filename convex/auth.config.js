@@ -5,7 +5,7 @@ export default {
             // or with `process.env.CLERK_JWT_ISSUER_DOMAIN`
             // and configure CLERK_JWT_ISSUER_DOMAIN on the Convex Dashboard
             // See https://docs.convex.dev/auth/clerk#configuring-dev-and-prod-instances
-            domain: "https://proud-albacore-77.clerk.accounts.dev",
+            domain: "https://clerk.mohaib.me",
             applicationID: "convex",
         },
     ]
